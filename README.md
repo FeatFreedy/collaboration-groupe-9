@@ -7,7 +7,7 @@
 
 ## Rôle de chacun :
 - Freedy : création du dépôt, ajouts
-- Calvin : ajout d’une section et relecture
+- Calvin : ajout d’une section a propos de la nutrition et relecture
 - Frank : corrections
 
 ## Résumé de notre expérience :
